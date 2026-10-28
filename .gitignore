@@ -1,0 +1,14 @@
+# Dependencies (there are none — kept so an accidental install stays untracked)
+node_modules/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local scratch
+*.log
+*.tmp
+.cache/

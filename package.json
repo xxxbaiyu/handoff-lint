@@ -1,0 +1,41 @@
+{
+  "name": "handoff-lint",
+  "version": "1.0.0",
+  "description": "A linter for AI handoff documents — because a handoff document is an attack surface, not a summary",
+  "keywords": [
+    "ai-agents",
+    "handoff",
+    "prompt-injection",
+    "memory",
+    "context-engineering",
+    "linter"
+  ],
+  "author": "1988my",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "main": "handoff-lint.js",
+  "bin": {
+    "handoff-lint": "handoff-lint.js"
+  },
+  "files": [
+    "handoff-lint.js",
+    "README.md",
+    "README.zh.md",
+    "LICENSE",
+    "examples/"
+  ],
+  "scripts": {
+    "test": "node handoff-lint.js selftest",
+    "demo": "node handoff-lint.js examples/01-good.md examples/02-injection.md examples/03-missing-redline.md examples/04-code-sample.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1988my/handoff-lint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1988my/handoff-lint/issues"
+  },
+  "homepage": "https://github.com/1988my/handoff-lint#readme"
+}
