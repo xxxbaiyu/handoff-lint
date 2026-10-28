@@ -181,7 +181,7 @@ res.missing; // ['...']
 
 ## Who wrote this
 
-[1988my](https://github.com/1988my).
+**1988my** — [@xxxbaiyu](https://github.com/xxxbaiyu) on GitHub.
 
 Built while running a personal long-term-memory system for AI agents, after discovering
 that memory files and handoffs are the same attack surface with different names.

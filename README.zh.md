@@ -166,7 +166,7 @@ res.missing; // ['...']
 
 ## 作者
 
-[1988my](https://github.com/1988my)
+**1988my** —— GitHub [@xxxbaiyu](https://github.com/xxxbaiyu)
 
 在为自己的 AI agent 搭建长期记忆系统的过程中写出来的 —— 搭到一半发现：**记忆文件和交接件，是同一个攻击面，只是名字不同。**
 

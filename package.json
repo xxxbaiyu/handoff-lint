@@ -10,7 +10,7 @@
     "context-engineering",
     "linter"
   ],
-  "author": "1988my",
+  "author": "1988my (https://github.com/xxxbaiyu)",
   "license": "MIT",
   "engines": {
     "node": ">=18"
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1988my/handoff-lint.git"
+    "url": "git+https://github.com/xxxbaiyu/handoff-lint.git"
   },
   "bugs": {
-    "url": "https://github.com/1988my/handoff-lint/issues"
+    "url": "https://github.com/xxxbaiyu/handoff-lint/issues"
   },
-  "homepage": "https://github.com/1988my/handoff-lint#readme"
+  "homepage": "https://github.com/xxxbaiyu/handoff-lint#readme"
 }
